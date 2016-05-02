@@ -1,0 +1,5 @@
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Core\bin\Debug\API.Core.dll
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Core\bin\Debug\API.Core.pdb
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Core\obj\Debug\API.Core.csprojResolveAssemblyReference.cache
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Core\obj\Debug\API.Core.dll
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Core\obj\Debug\API.Core.pdb

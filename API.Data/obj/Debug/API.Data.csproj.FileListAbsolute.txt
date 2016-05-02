@@ -1,0 +1,14 @@
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\obj\Debug\API.Data.csprojResolveAssemblyReference.cache
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\bin\Debug\API.Data.dll.config
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\bin\Debug\API.Data.dll
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\bin\Debug\API.Data.pdb
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\bin\Debug\API.Core.dll
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\bin\Debug\EntityFramework.dll
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\bin\Debug\API.Core.pdb
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\bin\Debug\EntityFramework.xml
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\obj\Debug\API.Data.dll
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\obj\Debug\API.Data.pdb
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\obj\Debug\API.Data.Migrations.CreateProductTable.resources
+C:\Users\necula\Documents\Visual Studio 2015\Projects\Tutorials\new\WebApiDemo\API.Data\obj\Debug\API.Data.csproj.GenerateResource.Cache
